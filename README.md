@@ -42,7 +42,7 @@ Bridging the Reality Gap: Sim-to-Real & Embodied AI Researcher
   - `ROS 2` `Python` `Nav2` `SLAM`
   - `STT` `LLM`
   - `Depth Camera` `2D LiDAR` `IMU`
-  - 'Hardware Design'
+  - `Hardware Design`
 - **Link:** [GitHub 레포지토리 링크 - 추가 필요]
 
 ### 3. 🤖 SmolVLA 기반 로봇 팔 제어 및 시뮬레이션 파이프라인 (SmolVLA-Gazebo Integration Pipeline)
