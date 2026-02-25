@@ -1,7 +1,6 @@
 # 👋 Hello
 
-Bridging the Reality Gap: Sim-to-Real & Embodied AI Researcher
-"My goal is to implement VLA and Reinforcement Learning in the physical world, bringing robust, intelligent robots from simulation into our daily lives."
+Bridging the Sim-to-Real gap by deploying VLA and Reinforcement Learning to build robust, intelligent robots for everyday life
 
 🚀 Focused on: Sim-to-Real Transfer | VLA Models | Robot Learning
 
