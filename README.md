@@ -1,6 +1,6 @@
 # 👋 Hello
 
-### Bridging the Reality Gap: Sim-to-Real & Embodied AI Researcher  
+Bridging the Reality Gap: Sim-to-Real & Embodied AI Researcher
 "My goal is to implement VLA and Reinforcement Learning in the physical world, bringing robust, intelligent robots from simulation into our daily lives."
 
 🚀 Focused on: Sim-to-Real Transfer | VLA Models | Robot Learning
@@ -27,12 +27,24 @@
   - `NVIDIA Jetson` `Arduino` `OpenCR` (Hardware & Embedded)
 - **Link:** [GitHub 레포지토리 링크 - 추가 필요]
 
-### 2. [프로젝트 이름 2]
-- **Description:** [여기에 프로젝트에 대한 간단한 설명을 적어주세요.]
-- **Tech Stack:** [사용한 기술]
-- **Link:** [GitHub 레포지토리 링크]
+### 2. 🦽 음성 제어 전동 휠체어 시스템 (Voice-Controlled Autonomous Wheelchair)
+- **Description:** 
+  - 🇰🇷 전신마비 장애인의 자율적인 이동을 지원하는 ROS 2 기반 음성 제어 전동휠체어 시스템 개발
+  - 🇬🇧 Developed a ROS 2-based voice-controlled autonomous wheelchair system to support the autonomous mobility of paralyzed individuals.
+- **Roles & Features:**
+  - 🇰🇷 STT -> LLM -> Nav2 -> Action으로 이어지는 파이프라인 통합 제어 체계 구축
+  - 🇬🇧 Built an integrated control pipeline connecting STT, LLM, Nav2, and Action.
+  - 🇰🇷 Depth 카메라, 2D LiDAR, IMU 센서 데이터를 융합하여 환경 인지 및 로봇 위치 추정
+  - 🇬🇧 Environmental perception and robot localization by fusing Depth camera, 2D LiDAR, and IMU sensor data.
+  - 🇰🇷 SLAM 및 Localization 기술을 활용하여 안정적인 실내 자율 주행 구현
+  - 🇬🇧 Implemented stable indoor autonomous driving using SLAM and localization technologies.
+- **Tech Stack:** 
+  - `ROS 2` `Python` `Nav2` `SLAM`
+  - `STT` `LLM`
+  - `Depth Camera` `2D LiDAR` `IMU`
+  - 'Hardware Design'
+- **Link:** [GitHub 레포지토리 링크 - 추가 필요]
 
 ## 📫 Contact Me
 - **Email:** [이메일 주소]
 - **Blog / Portfolio:** [블로그나 포트폴리오 주소]
-
