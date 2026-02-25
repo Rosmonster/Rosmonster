@@ -42,7 +42,7 @@ Bridging the Reality Gap: Sim-to-Real & Embodied AI Researcher
   - `ROS 2` `Python` `Nav2` `SLAM`
   - `STT` `LLM`
   - `Depth Camera` `2D LiDAR` `IMU`
-  - 'Hardware Design'
+  - `Hardware Design`
 - **Link:** [GitHub 레포지토리 링크 - 추가 필요]
 
 ## 📫 Contact Me
