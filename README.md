@@ -23,7 +23,7 @@ Bridging the Reality Gap: Sim-to-Real & Embodied AI Researcher
   - 🇰🇷 파악 대상 인지 후 로봇팔을 이용한 정밀 피킹 작업 수행
   - 🇬🇧 Precise picking operation using a robotic arm after recognizing the target object.
 - **Tech Stack:** 
-  - `ROS2` `Python` `C++` (Software)
+  - `ROS2` `Python` `C++` `Moveit 2` `MTC` (Software)
   - `NVIDIA Jetson` `Arduino` `OpenCR` (Hardware & Embedded)
 - **Link:** [GitHub 레포지토리 링크 - 추가 필요]
 
