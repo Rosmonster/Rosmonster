@@ -35,10 +35,10 @@ Bridging the Sim-to-Real gap by deploying VLA and Reinforcement Learning to buil
 - **Roles & Features:**
   - 🇰🇷 STT -> LLM -> Nav2 -> Action으로 이어지는 파이프라인 통합 제어 체계 구축
   - 🇬🇧 Built an integrated control pipeline connecting STT, LLM, Nav2, and Action.
-  - 🇰🇷 Depth 카메라, 2D LiDAR, IMU 센서 데이터를 융합하여 환경 인지 및 로봇 위치 추정
-  - 🇬🇧 Environmental perception and robot localization by fusing Depth camera, 2D LiDAR, and IMU sensor data.
-  - 🇰🇷 SLAM 및 Localization 기술을 활용하여 안정적인 실내 자율 주행 구현
-  - 🇬🇧 Implemented stable indoor autonomous driving using SLAM and localization technologies.
+  - 🇰🇷 Wheel encoder, 2D LiDAR, IMU 데이터를 융합한 SLAM 기반의 고정밀 환경 지도 작성 및 실시간 위치 추정 기술 구현
+  - 🇬🇧 Implemented high-precision mapping and real-time state estimation utilizing SLAM by fusing Wheel encoder, 2D LiDAR, and IMU sensor data.
+  - 🇰🇷 Nav2 프레임워크 내 MPPI 컨트롤러를 적용하여 동적 장애물에 대응하는 최적 경로 생성 및 부드러운 주행 제어 성능 확보
+  - 🇬🇧 Deployed an MPPI (Model Predictive Path Integral) controller within the Nav2 framework for optimal trajectory generation and smooth obstacle avoidance in dynamic environments.
 - **Tech Stack:** 
   - `ROS 2` `Python` `Nav2` `SLAM`
   - `STT` `LLM`
