@@ -15,6 +15,8 @@ Bridging the Sim-to-Real gap by deploying VLA and Reinforcement Learning to buil
   - 🇰🇷 험지 극복, 물체 추적, 비전 인식 및 로봇팔 피킹 기능을 갖춘 ROS2 기반의 다목적 자율 주행 로봇 개발
   - 🇬🇧 Developed a ROS2-based multi-purpose autonomous robot capable of overcoming rough terrain, object tracking, vision recognition, and robotic arm picking.
 - **Roles & Features:**
+  - 🇰🇷 임무 수행을 위한 6자유도(6DOF) 커스텀 로봇 팔 기구부 설계 및 자체 제작
+  - 🇬🇧 Designed and fabricated a custom 6-DOF robotic arm hardware for mission execution.
   - 🇰🇷 험지 환경에서의 주행 제어 및 극복 알고리즘 구현
   - 🇬🇧 Implemented driving control and overcoming algorithms in rough terrain environments.
   - 🇰🇷 비전 인식 기반의 물체 탐지 및 실시간 타겟 추적
@@ -23,7 +25,7 @@ Bridging the Sim-to-Real gap by deploying VLA and Reinforcement Learning to buil
   - 🇬🇧 Precise picking operation using a robotic arm after recognizing the target object.
 - **Tech Stack:** 
   - `ROS2` `Python` `C++` `Moveit 2` `MTC` (Software)
-  - `NVIDIA Jetson` `Arduino` `OpenCR` (Hardware & Embedded)
+  - `NVIDIA Jetson` `Arduino` `OpenCR` `CAD / 3D Printing` (Hardware & Embedded)
 - **Link:** [GitHub 레포지토리 링크 - 추가 필요]
 
 ### 2. 🦽 음성 제어 전동 휠체어 시스템 (Voice-Controlled Autonomous Wheelchair)
