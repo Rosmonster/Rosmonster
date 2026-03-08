@@ -4,10 +4,17 @@ Bridging the Sim-to-Real gap by deploying VLA and Reinforcement Learning to buil
 
 🚀 Focused on: Sim-to-Real Transfer | VLA Models | Robot Learning
 
-## 🛠 Skills
-- **Languages:** [Python, C++, etc.]
-- **Frameworks/Libraries:** [ROS2, Omniverse Isaac Sim, etc.]
-- **Tools:** [Git, etc.]
+## 🛠 Skills & Tools
+
+### 🤖 Robotics & AI
+![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge)
+
+### 💻 Languages & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🚀 Projects
 ### 1. 🤖 DolbotX (다목적 임무 수행 로봇 / Multi-purpose Mission Robot)
