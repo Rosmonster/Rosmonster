@@ -34,7 +34,7 @@ Bridging the Sim-to-Real gap by deploying VLA and Reinforcement Learning to buil
   - `ROS2` `Python` `C++` `Moveit 2` `MTC` (Software)
   - `NVIDIA Jetson` `Arduino` `OpenCR` `CAD / 3D Printing` (Hardware & Embedded)
 - **Link:** [GitHub 레포지토리 링크 - 추가 필요]
-- <img src="https://github.com/Rosmonster/Rosmonster/issues/1#issue-4040703925" width="600" />
+- <img src="[https://github.com/Rosmonster/Rosmonster/issues/1#issue-4040703925](https://private-user-images.githubusercontent.com/199754765/559884056-46c685b6-4a42-4628-90bd-8144c5c033fc.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI5NTM3NjgsIm5iZiI6MTc3Mjk1MzQ2OCwicGF0aCI6Ii8xOTk3NTQ3NjUvNTU5ODg0MDU2LTQ2YzY4NWI2LTRhNDItNDYyOC05MGJkLTgxNDRjNWMwMzNmYy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwOFQwNzA0MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MmQ1ZTYyYjZlYjY1YzEwZjlmMDA3YWVkMDUzNTUyNDNkZTRmNWYzYjNjOGJmZGY3ZmU5NGJjNzM3YTAyZmJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Z2w9rjgAHbYJ3H1TQNsOIs5z-pV0jjSz2zVR84kkMaI)" width="600" />
 
 ### 2. 🦽 음성 제어 전동 휠체어 시스템 (Voice-Controlled Autonomous Wheelchair)
 - **Description:** 
