@@ -1,6 +1,6 @@
 # 👋 Hello
 
-Bridging the Sim-to-Real gap by deploying VLA and Reinforcement Learning to build robust, intelligent robots for everyday life
+My research goal is to develop robust control frameworks for intelligent robot systems by grounding them in rigorous dynamics modeling and model-based optimal control — such as NMPC and Learning-augmented MPC — to bridge the gap between high-level AI reasoning and reliable physical execution in the real world.
 
 🚀 Focused on: Sim-to-Real Transfer | VLA Models | Robot Learning
 
