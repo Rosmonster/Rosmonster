@@ -77,7 +77,6 @@ My research goal is to develop robust control frameworks for intelligent robot s
   - Analyzing inference errors (e.g., image transmission loss, training data bias) to optimize the model and improve the success rate of the reaching task.
 - **Tech Stack:** 
   - `SmolVLA` `ROS 2` `Gazebo` `MoveIt` `RViz` `Python`
-- **Link:** [GitHub 레포지토리 링크 - 추가 필요]
 <div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
 <img src="https://private-user-images.githubusercontent.com/199754765/560017059-33505f6d-19e0-4203-bb4b-2c69f3315cc4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwMjI4NzQsIm5iZiI6MTc3MzAyMjU3NCwicGF0aCI6Ii8xOTk3NTQ3NjUvNTYwMDE3MDU5LTMzNTA1ZjZkLTE5ZTAtNDIwMy1iYjRiLTJjNjlmMzMxNWNjNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwOVQwMjE2MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NmIwMjdkZjU2Nzg2NmNmNzJjZTJmYTk0M2MwNmY4NDU1MjExYzRmMWViMjE1NTEzZmE4NzU0NzUzYjgyMjU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Bmx1IgCwsKU_meWb_poGLUDEsHg1lVgdJHHBmQv2_NA" width="20%" /> 
 </div>
@@ -100,12 +99,12 @@ My research goal is to develop robust control frameworks for intelligent robot s
   - Currently integrating and optimizing the end-to-end Sim-to-Real pipeline, connecting perception (IS-Net), control (MoveIt 2), and simulation validation (Isaac Sim).
 - **Tech Stack:** 
   - `ROS 2` `MoveIt 2` `Isaac Sim` `IS-Net` `OpenCV` `Python`
-- **Link:** [GitHub 레포지토리 링크 - 추가 필요]
+
 <div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
 <img src="https://private-user-images.githubusercontent.com/199754765/560024937-c5ca4046-9503-4815-9ebc-20e651e9a84c.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwMjQ1NDksIm5iZiI6MTc3MzAyNDI0OSwicGF0aCI6Ii8xOTk3NTQ3NjUvNTYwMDI0OTM3LWM1Y2E0MDQ2LTk1MDMtNDgxNS05ZWJjLTIwZTY1MWU5YTg0Yy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwOVQwMjQ0MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZjcwMTU1MjQwODVhYzE4NTgzNDExMjY4MzRjOTVmN2E5MzZlYjA4NGRjMzYwZWFiZDIxMjI2Y2JlYmVmZjU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6ScfRPXy-JTaksDMFyZmfWhevhNiyYAck4uwTy2NRwg" width="40%" /> 
 <img src="https://private-user-images.githubusercontent.com/199754765/560024880-65389876-fd40-4ee1-b1e9-6a0fb9aa9b00.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwMjQ1MzQsIm5iZiI6MTc3MzAyNDIzNCwicGF0aCI6Ii8xOTk3NTQ3NjUvNTYwMDI0ODgwLTY1Mzg5ODc2LWZkNDAtNGVlMS1iMWU5LTZhMGZiOWFhOWIwMC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwOVQwMjQzNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNjY0YmI0OGY1YzY5Y2ZkNDkwNGY1MjYxMGQyMGRhMjJhOGY4ZmNlYTc0MjUyZDNiNWI1MjA5N2M2ZTI1YjgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ERTBGytVb7WwmUwPeV-_Vo-eOCRBPhWkb1D_biqNEEk" width="40%" />
 </div>
 
 ## 📫 Contact Me
-- **Email:** [이메일 주소]
-- **Blog / Portfolio:** [블로그나 포트폴리오 주소]
+- **Email:** [tmd2237@naver.com]
+
